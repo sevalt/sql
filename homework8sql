@@ -1,0 +1,106 @@
+a1
+CREATE TABLE employee(
+  id SERIAL PRIMARY KEY,
+  full_name VARCHAR(50),
+  birthday DATE,
+  email VARCHAR(100),
+  );
+  
+  a2
+ insert into employee (full_name, birthday, email) values ('Emlynne', '2021-11-23', 'ebutters0@tiny.cc');
+insert into employee (full_name, birthday, email) values ('Herby', '2022-01-30', 'hfessions1@vk.com');
+insert into employee (full_name, birthday, email) values ('Nessie', '2022-03-25', 'nkill2@jalbum.net');
+insert into employee (full_name, birthday, email) values ('Meyer', '2022-10-09', 'mbadland3@google.co.jp');
+insert into employee (full_name, birthday, email) values ('Sumner', '2022-06-12', 'sveryard4@nationalgeographic.com');
+insert into employee (full_name, birthday, email) values ('Dasie', '2022-08-25', 'dhawkes5@apple.com');
+insert into employee (full_name, birthday, email) values ('Barde', '2022-05-03', 'bblainey6@harvard.edu');
+insert into employee (full_name, birthday, email) values ('Bastien', null, 'bbartolomeo7@naver.com');
+insert into employee (full_name, birthday, email) values ('Amalee', '2021-10-31', 'aubsdall8@g.co');
+insert into employee (full_name, birthday, email) values ('Cassandry', '2022-04-21', 'cjessen9@cargocollective.com');
+insert into employee (full_name, birthday, email) values ('Ignace', '2022-03-31', 'ijecocka@engadget.com');
+insert into employee (full_name, birthday, email) values ('Vivi', '2022-06-24', 'vgethynb@dailymotion.com');
+insert into employee (full_name, birthday, email) values ('Delilah', '2022-10-05', 'dstofferc@army.mil');
+insert into employee (full_name, birthday, email) values ('Allen', '2022-09-23', 'amanclarkd@un.org');
+insert into employee (full_name, birthday, email) values ('Teresa', '2022-02-04', 'ttabarye@hibu.com');
+insert into employee (full_name, birthday, email) values ('Yank', '2022-05-10', 'ywaldramf@topsy.com');
+insert into employee (full_name, birthday, email) values ('Aurora', '2022-09-08', 'agladwishg@diigo.com');
+insert into employee (full_name, birthday, email) values ('Martynne', '2022-08-11', 'mmattedih@purevolume.com');
+insert into employee (full_name, birthday, email) values ('Susana', '2022-01-11', 'sdwirei@goodreads.com');
+insert into employee (full_name, birthday, email) values ('Valenka', '2022-06-01', 'vchallenj@elegantthemes.com');
+insert into employee (full_name, birthday, email) values ('Sande', null, 'skarpenkok@scribd.com');
+insert into employee (full_name, birthday, email) values ('Monty', '2022-04-23', 'mtelegal@flickr.com');
+insert into employee (full_name, birthday, email) values ('Joann', '2021-12-20', 'jlindwasserm@alibaba.com');
+insert into employee (full_name, birthday, email) values ('Lucina', '2022-07-02', 'ledlingn@angelfire.com');
+insert into employee (full_name, birthday, email) values ('Crysta', '2021-12-05', 'cjorczyko@indiegogo.com');
+insert into employee (full_name, birthday, email) values ('Maren', '2021-11-29', 'mbeckinghamp@dmoz.org');
+insert into employee (full_name, birthday, email) values ('Amargo', '2022-09-20', 'alinkq@patch.com');
+insert into employee (full_name, birthday, email) values ('Sapphire', '2022-09-19', 'sdelucar@goo.ne.jp');
+insert into employee (full_name, birthday, email) values ('Jarrod', '2021-10-28', 'jarmans@goo.ne.jp');
+insert into employee (full_name, birthday, email) values ('Colver', '2022-08-06', 'cmcreynoldst@ezinearticles.com');
+insert into employee (full_name, birthday, email) values ('Melony', '2022-09-06', 'mlawrieu@sphinn.com');
+insert into employee (full_name, birthday, email) values ('Cristi', '2022-04-12', 'cplluv@amazon.co.jp');
+insert into employee (full_name, birthday, email) values ('Camila', null, 'ccosgriffw@yahoo.com');
+insert into employee (full_name, birthday, email) values ('Jacquette', '2022-05-15', 'jcomfortx@scribd.com');
+insert into employee (full_name, birthday, email) values ('Waylon', '2021-12-20', 'wrobbely@cbc.ca');
+insert into employee (full_name, birthday, email) values ('Dorothea', '2022-05-16', 'diveyz@huffingtonpost.com');
+insert into employee (full_name, birthday, email) values ('Darby', '2022-06-18', 'dduffit10@gmpg.org');
+insert into employee (full_name, birthday, email) values ('Daren', '2021-12-13', 'dkeable11@posterous.com');
+insert into employee (full_name, birthday, email) values ('Zerk', '2022-05-03', 'zbessent12@free.fr');
+insert into employee (full_name, birthday, email) values ('Win', '2022-05-23', 'wannear13@huffingtonpost.com');
+insert into employee (full_name, birthday, email) values ('Ebba', '2022-06-12', 'elivesley14@walmart.com');
+insert into employee (full_name, birthday, email) values ('Page', '2022-07-22', 'pconnors15@friendfeed.com');
+insert into employee (full_name, birthday, email) values ('Fletch', '2022-08-13', 'fmallord16@sbwire.com');
+insert into employee (full_name, birthday, email) values ('Emmalee', '2022-02-22', 'eweller17@indiegogo.com');
+insert into employee (full_name, birthday, email) values ('Jemie', null, 'jblenkharn18@admin.ch');
+insert into employee (full_name, birthday, email) values ('Nathan', '2021-12-19', 'napthorpe19@virginia.edu');
+insert into employee (full_name, birthday, email) values ('Elsinore', '2022-03-28', 'earndtsen1a@engadget.com');
+insert into employee (full_name, birthday, email) values ('Theobald', '2022-06-07', 'tchesterton1b@hp.com');
+insert into employee (full_name, birthday, email) values ('Luise', '2022-07-19', 'lbeatty1c@theatlantic.com');
+insert into employee (full_name, birthday, email) values ('Silvana', '2022-07-28', 'sradeliffe1d@sciencedirect.com');
+
+
+a3
+UPDATE employee
+  SET full_name='seval'
+  email='asd@com'
+  birthday='1989-02-04'
+  WHERE id=1;
+  
+  
+  
+  UPDATE employee
+  SET full_name='murat'
+  email='asdf@com'
+  birthday='1989-03-04'
+  WHERE id=2;
+  
+  
+  UPDATE employee
+  SET full_name='ali'
+  email='asasd@com'
+  birthday='1989-02-08'
+  WHERE id=3;
+  
+  
+  UPDATE employee
+  SET full_name='sevalll'
+  email='asfgjkd@com'
+  birthday='1999-02-04'
+  WHERE id=4;
+  
+  
+  UPDATE employee
+  SET full_name='murad'
+  email='asqwertd@com'
+  birthday='1989-09-04'
+  WHERE id=5;
+  
+  
+  
+  
+  a4
+  DELETE FROM employee
+		WHERE id IN (1,2,3,4,5)
+		RETURNING *;
+
+  
