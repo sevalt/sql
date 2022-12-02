@@ -27,5 +27,5 @@ SELECT MIN(replacement_cost) FROM film
 SELECT customer_id,
     count(customer_id)
 FROM payment
-group by customer_id
-order by count(customer_id) DESC;
+GROUP BY customer_id
+ORDER BY COUNT(customer_id) DESC;
